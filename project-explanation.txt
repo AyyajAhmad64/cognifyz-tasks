@@ -1,0 +1,24 @@
+Task 1: HTML/CSS
+Navigation Menu:
+
+Purpose: Provides a navigation structure for users to easily access different sections of the website, such as Home, About, and Contact. It typically includes styled links (<a> tags) within a <nav> element.
+About Me Section:
+
+Purpose: Displays a structured introduction about yourself, including personal and professional details. It often includes headings (<h2>), paragraphs (<p>), and sometimes images (<img>).
+Contact Form:
+
+Purpose: Offers a means for visitors to contact you directly through the website. It typically includes input fields for email addresses (<input type="email">), text areas for messages, and a submit button (<button>).
+Footer Section:
+
+Purpose: Includes essential information like copyright notices, links to social media profiles (e.g., LinkedIn, Gmail, WhatsApp), and sometimes additional contact details. It's placed at the bottom of the page for easy access.
+Task 2: JavaScript
+Purpose: Enhances the functionality of the webpage by adding interactive elements. This can include:
+Greeting Alert: Displays a welcome message when the page loads, often based on the current time.
+Dark Mode Toggle: Allows users to switch between light and dark themes for improved readability or personal preference.
+Form Validation: Validates user inputs in forms to ensure they meet specified criteria before submission, enhancing data integrity and user experience.
+Integration into Project File
+HTML: Integrate the structured sections (navigation, about me, contact form, footer) to create a cohesive layout that presents information clearly and accessibly.
+
+CSS: Style the HTML elements to achieve visual consistency, readability, and responsiveness across different devices and screen sizes.
+
+JavaScript: Implement scripts to add functionality like greeting alerts, dark mode toggles, and form validations. These scripts enhance user interaction and usability without compromising on performance.
